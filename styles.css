@@ -2,9 +2,14 @@
 *{
 	background-color:rgb(135,206,235);
 }
+p:first-child{
+	color:black;
+}
+p:nth-child{
+	color:standard;
+}
 
-
-#para3{
+p:last-child{
 	color:red;
 }
 #li1{
