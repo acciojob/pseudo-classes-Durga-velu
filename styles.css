@@ -1,1 +1,41 @@
 /*  your css code here. If applicable */
+*{
+	background-color:rgb(135,206,235);
+}
+#para1{
+	color:nth-child(2);
+}
+#para2{
+	color:nth-child(2);
+}
+#para3{
+	color:red;
+}
+#li1{
+	background:white;
+	width:50%;
+	padding:20px;
+	font-size:22px;
+}
+#li2{
+	background-color:gray;
+	width:50%;
+	padding:20px;
+}
+#li3{
+	background-color:pink;
+	width:50%;
+	padding:20px;
+}
+#li4{
+	background-color:gray;
+	width:50%;
+	padding:20px;
+	font-size:22px;
+}
+#li5{
+	background-color:white;
+	width:50%;
+	padding:20px;
+	
+}
