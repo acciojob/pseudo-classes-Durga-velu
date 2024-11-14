@@ -5,7 +5,7 @@
 p:first-child{
 	color:black;
 }
-p:nth-child{
+p:nth-child(2){
 	color:standard;
 }
 
