@@ -10,7 +10,9 @@
 	background-color:black;
 }
 
-
+p:nth-child(2){
+	color:standard;
+}
 #p3{
 	color:red;
 }
