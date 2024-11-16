@@ -2,12 +2,12 @@
 *{
 	background-color:rgb(135,206,235);
 }
-p:first-child{
+p{
 	color:black;
 }
 
 
-p:last-child{
+#p3{
 	color:red;
 }
 #li1{
