@@ -2,7 +2,7 @@
 *{
 	background-color:rgb(135,206,235);
 }
-p:first-child{
+.p:first-child{
 	color:white;
 	textalign:left;
 	padding:0px;
