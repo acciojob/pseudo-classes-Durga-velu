@@ -2,17 +2,17 @@
 *{
 	background-color:rgb(135,206,235);
 }
-.p:first-child{
+.art p:first-child{
 	color:white;
 	textalign:left;
 	padding:0px;
 	margin:opx;
 	background-color:black;
 }
-p:nth-child(2){
+.art p:nth-child(2){
 	color:standard;
 }
-p:last-child{
+.art p:last-child{
 	color:red;
 }
 #li1{
